@@ -1,6 +1,9 @@
 
 **Author: F.N.LOGOTHETIS**
 
+![robot](https://user-images.githubusercontent.com/25617530/60970312-60d47100-a32a-11e9-85b1-7b2e31bebcdc.PNG)
+
+
 The task is to create a simple robot that walks and moves its arms and legs,
 usingWebGL (http://www.khronos.org/webgl/) and JavaScript only. The
 task is intended to demonstrate simple and fast cross-platform interactive

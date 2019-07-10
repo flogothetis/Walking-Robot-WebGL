@@ -1,3 +1,5 @@
+**Author: F.N.LOGOTHETIS
+
 The task is to create a simple robot that walks and moves its arms and legs,
 usingWebGL (http://www.khronos.org/webgl/) and JavaScript only. The
 task is intended to demonstrate simple and fast cross-platform interactive
@@ -16,12 +18,14 @@ example, while the left arm goes down, the right should go up and vice
 versa. When the left leg goes forward, the right goes backwards and
 so on...
 
-When no keys are pressed, the robot stops moving and arms/legs stop
+* When no keys are pressed, the robot stops moving and arms/legs stop
 rotating.
 
-Download:
-Download the  full folder with libraries.And run the Robot.htm file on a 
-browser.(I suggest Google Chrome Browser).Libraries and hmt file must be in the 
-same folder
+**Download:
+
+- Download the  full folder with libraries.And run the Robot.htm file on a 
+browser. (I suggest Google Chrome Browser)
+- Libraries and hmt file must be in the same folder.
 
 Thank you!
+

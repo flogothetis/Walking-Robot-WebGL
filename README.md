@@ -1,4 +1,4 @@
-**Author: F.N.LOGOTHETIS
+**Author: F.N.LOGOTHETIS**
 
 The task is to create a simple robot that walks and moves its arms and legs,
 usingWebGL (http://www.khronos.org/webgl/) and JavaScript only. The
@@ -21,7 +21,7 @@ so on...
 * When no keys are pressed, the robot stops moving and arms/legs stop
 rotating.
 
-**Download:
+**Download:**
 
 - Download the  full folder with libraries.And run the Robot.htm file on a 
 browser. (I suggest Google Chrome Browser)

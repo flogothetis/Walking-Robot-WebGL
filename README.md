@@ -3,7 +3,7 @@
 
 
 The task is to create a simple robot that walks and moves its arms and legs,
-using WebGL (http://www.khronos.org/webgl/) and JavaScript only. .
+using WebGL (http://www.khronos.org/webgl/) and JavaScript only.
 
 SPECIFICALLY:
 

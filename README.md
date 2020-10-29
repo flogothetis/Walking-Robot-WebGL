@@ -1,16 +1,15 @@
 
 ![robot](https://user-images.githubusercontent.com/25617530/60970312-60d47100-a32a-11e9-85b1-7b2e31bebcdc.PNG)
 
-@ **Author: F.N.LOGOTHETIS**
+
 The task is to create a simple robot that walks and moves its arms and legs,
-usingWebGL (http://www.khronos.org/webgl/) and JavaScript only. The
-task is intended to demonstrate simple and fast cross-platform interactive
-application development using state-of-the-art technologies.
+using WebGL (http://www.khronos.org/webgl/) and JavaScript only. .
+
 SPECIFICALLY:
 
 • The robot needs to be able to move left and right using the left
 and right arrow keys respectively. The robot needs to be rotated
-accordingly so it always faces the walking direction. The rotation
+so it always faces the walking direction. The rotation
 could be instant or gradual (frame per frame) - it is up to you. Both
 are accepted as correct.
 
@@ -23,7 +22,7 @@ so on...
 * When no keys are pressed, the robot stops moving and arms/legs stop
 rotating.
 
-**Download:**
+## Move the robot 
 
 - Download the  full folder with libraries.And run the Robot.htm file on a 
 browser. (I suggest Google Chrome Browser)
